@@ -45,9 +45,3 @@ Here goes!
 ## Environments
 
 ---
-
-### You're missing something!
-Excellent. Let me know via email (bas@ontestautomation.com), or better, submit a PR and I'd be happy to include your suggestions. Or fork this project and start your own.
-
-### Can you carry out this assessment in my organization?
-I'd be happy to. Feel free to send me an email (bas@ontestautomation.com) to discuss options. We can then go through this list together so that I can give you some recommendations on how to improvement your test automation strategy. I prefer to work remotely.
